@@ -104,7 +104,7 @@ I'm primarily looking for code improvements and bug fixes. Once your changes are
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
