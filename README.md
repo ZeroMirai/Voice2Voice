@@ -100,7 +100,7 @@ I'm primarily looking for code improvements and bug fixes. Once your changes are
 
 - Ensure that you have the required dependencies and configuration set up before running the code.
 - Running the program and VoiceVox engine simultaneously is necessary for proper program functionality.
-- If you use this program with discord_and_games, you need to redo steps 5-8 every time the program is opened.
+- If you use this program with discord_and_games, you need to redo steps 3-4 every time the program is opened.
 
 ## License
 
